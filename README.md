@@ -21,7 +21,7 @@ An **Employee Management System (EMS)** project using ReactJS, Spring Boot and M
 **Technologies:** Spring Boot, Spring Data JPA. <br> <br>
 
 **Key Features**:
-- **Add Employee** : Easily add new employees to the system by providing details such as ID,Firstname,Lastname,Email. <br>
+- **Add Employee** : Easily add new employees to the system by providing details such as Firstname,Lastname,Email. <br>
 - **Update Employee** : Modify existing employee details, inculding name,email and other information. <br>
 - **Delete Employee** : Remove Employee records. <br>
 - **View Employee** : Display a list of all Employees with their details.
